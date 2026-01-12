@@ -1,0 +1,8 @@
+{
+  "name": "Astral Agency",
+  "description": "Un'agenzia di social media e marketing di alto livello a tema spaziale, potenziata dall'intelligenza artificiale.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
